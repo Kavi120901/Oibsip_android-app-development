@@ -1,0 +1,1 @@
+This Android app, a stopwatch, uses ConstraintLayout for the user interface. It displays time in hours, minutes, and seconds, with Start, Stop, and Reset buttons implemented as floating action buttons. The Java code handles timer functionality, including starting, stopping, and resetting the stopwatch, even when the app is paused or resumed.

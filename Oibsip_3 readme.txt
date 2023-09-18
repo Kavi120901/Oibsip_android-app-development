@@ -1,0 +1,1 @@
+This Android app, named "Simple Calculator," performs basic arithmetic operations (addition, subtraction, multiplication, and division) on user-inputted numbers. It features a user interface with input fields, operation buttons, and a display area for results. Input validation ensures numbers are entered, and results are displayed when buttons are clicked.
