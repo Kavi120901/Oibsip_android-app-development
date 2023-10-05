@@ -1,0 +1,1 @@
+This Android quiz app allows users to answer multiple-choice questions. It displays questions and answer choices with a colorful UI, tracks user scores, and provides instant feedback on correct answers. The app features a restart option and alerts users with their final score upon completion.
